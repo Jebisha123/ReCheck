@@ -1,0 +1,27 @@
+body {
+    font-size: 30px;
+    margin-left: 50px;
+            }
+            a{
+                border: 2px solid rgb(47, 47, 119);
+                background-color: rgb(137, 137, 188);
+                border-radius: 2px;
+                text-decoration:none;
+                border-radius: 3px;
+            }
+           
+        
+    #im {
+      background-image: image-set(1000px);
+      background-position: 70px;
+      background-repeat: no-repeat;
+      margin-left: 600px;
+    
+    
+    }
+    #com
+    {
+background-image: url('computer.jpeg');
+background-repeat: no-repeat;
+height: 900px;
+    }
